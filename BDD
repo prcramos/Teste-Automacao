@@ -1,0 +1,14 @@
+Funcionalidade: Faça uma Buscar por um Produto Portal Magazine Luiza
+  Cenário: Busca por um produto
+
+Dado que estou no portal magazine luiza 
+Quando Faço uma busca por um produto
+Recebo uma lista de produtos relacionados 
+
+
+Funcionalidade: Escolha um produto na lista Portal Magazine Luiza
+  Cenário: Escolha um produto na lista
+
+Dado que escolhi o produto desejado da lista
+Quando adiciono ao carrinho de compras
+Recebo a informação para inclusão de CEP, após continuar é apresentado opções de entrega, após continuar e apresentado a revisão do pedido, e conclusão da solicitação do pedido.
